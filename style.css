@@ -1,0 +1,42 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+#principal{
+    width: 900px;
+}
+body{
+    background:#d2d2c1 url('img/fundo.png');
+  
+    justify-content: center;
+    align-items: center;
+    width: 10;
+
+}
+#menu{
+    background:#c5c5b2;
+    padding: 5px;
+}
+a{
+    color: #4b66a4;
+    text-decoration: none;
+    font-weight: bold;
+    width: 18px;
+}
+#conteudo{
+    background-color: aliceblue;
+    padding: 10px;
+    
+}
+.fotos{
+
+    border-width: 10px;
+    border-style: hidden;
+    border-color: burlywood;
+}
+#rodape{
+    text-align: center;
+}
+.h2{
+   
+}
